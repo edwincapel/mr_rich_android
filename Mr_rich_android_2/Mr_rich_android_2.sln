@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A1A179FC-5D8F-E3E6-80A7-6DAB2AF502AB}") = "Mr_rich_android_2", "Assembly-CSharp.csproj", "{CF4FF0A5-ABE0-5D31-C0DE-3415B77B7AE0}"
+EndProject
+Project("{A1A179FC-5D8F-E3E6-80A7-6DAB2AF502AB}") = "Mr_rich_android_2", "Assembly-CSharp-Editor.csproj", "{1241AD22-1549-5C32-A354-07AD44FF0CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4FF0A5-ABE0-5D31-C0DE-3415B77B7AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4FF0A5-ABE0-5D31-C0DE-3415B77B7AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4FF0A5-ABE0-5D31-C0DE-3415B77B7AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4FF0A5-ABE0-5D31-C0DE-3415B77B7AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1241AD22-1549-5C32-A354-07AD44FF0CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1241AD22-1549-5C32-A354-07AD44FF0CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1241AD22-1549-5C32-A354-07AD44FF0CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1241AD22-1549-5C32-A354-07AD44FF0CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
